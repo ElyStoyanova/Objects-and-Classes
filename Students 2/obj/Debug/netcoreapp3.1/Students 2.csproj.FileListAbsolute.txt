@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\bin\Debug\netcoreapp3.1\Students 2.exe
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\bin\Debug\netcoreapp3.1\Students 2.deps.json
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\bin\Debug\netcoreapp3.1\Students 2.runtimeconfig.json
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\bin\Debug\netcoreapp3.1\Students 2.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\bin\Debug\netcoreapp3.1\Students 2.dll
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\bin\Debug\netcoreapp3.1\Students 2.pdb
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\obj\Debug\netcoreapp3.1\Students 2.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\obj\Debug\netcoreapp3.1\Students 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\obj\Debug\netcoreapp3.1\Students 2.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\obj\Debug\netcoreapp3.1\Students 2.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\obj\Debug\netcoreapp3.1\Students 2.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\obj\Debug\netcoreapp3.1\Students 2.dll
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\obj\Debug\netcoreapp3.1\Students 2.pdb
+C:\Users\estoy\source\repos\Objects and Classes\Students 2\obj\Debug\netcoreapp3.1\Students 2.genruntimeconfig.cache
